@@ -1,0 +1,7 @@
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\bin\Debug\FloorCreator.dll
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\bin\Debug\FloorCreator.pdb
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\obj\Debug\FloorCreator.csproj.AssemblyReference.cache
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\obj\Debug\FloorCreator.csproj.CoreCompileInputs.cache
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\obj\Debug\FloorCreator.dll
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\obj\Debug\FloorCreator.pdb
+E:\4-Work\axelerate\Axe\FloorCreator\FloorCreator\bin\Debug\FloorCreator.addin
