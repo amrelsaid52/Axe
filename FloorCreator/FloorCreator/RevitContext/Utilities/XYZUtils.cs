@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorThreshold.RevitContext.Utilities
+namespace SectionCreator.RevitContext.Utilities
 {
     public class XYZUtils
     {

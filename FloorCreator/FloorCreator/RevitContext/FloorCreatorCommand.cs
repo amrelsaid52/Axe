@@ -1,14 +1,14 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using FloorThreshold.RevitContext.Helpers;
-using FloorThreshold.RevitContext.Manager;
-using FloorThreshold.RevitContext.Utilities;
+using SectionCreator.RevitContext.Helpers;
+using SectionCreator.RevitContext.Manager;
+using SectionCreator.RevitContext.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloorThreshold
+namespace SectionCreator
 {
     [Transaction(TransactionMode.Manual)]
     public class FloorCreatorCommand : IExternalCommand

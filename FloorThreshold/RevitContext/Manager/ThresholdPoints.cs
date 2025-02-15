@@ -1,10 +1,10 @@
 ﻿using Autodesk.Revit.DB;
-using FloorThreshold.RevitContext.Helpers;
+using SectionCreator.RevitContext.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloorThreshold.RevitContext.Manager
+namespace SectionCreator.RevitContext.Manager
 {
     internal class ThresholdPoints
     {

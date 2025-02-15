@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloorThreshold.RevitContext.Helpers
+namespace SectionCreator.RevitContext.Helpers
 {
     internal class CurvesHelper
     {

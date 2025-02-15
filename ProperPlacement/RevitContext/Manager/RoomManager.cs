@@ -1,10 +1,10 @@
 ﻿using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Architecture;
-using FloorThreshold.RevitContext.Utilities;
+using SectionCreator.RevitContext.Utilities;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloorThreshold.RevitContext.Manager
+namespace SectionCreator.RevitContext.Manager
 {
     internal class RoomManager
     {

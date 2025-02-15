@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	
+	<AddIn Type="Application">
+		<Assembly>SectionCreator.dll</Assembly>
+		<AddInId>3E3B941C-EBAB-4897-8C93-CD64EC17086A</AddInId>
+		<FullClassName>SectionCreator.SectionCreatorApplication</FullClassName>
+		<Name>Amr</Name>
+		<VendorId>Amr</VendorId>
+		<VendorDescription>Amr</VendorDescription>
+	</AddIn>
+</RevitAddIns>
