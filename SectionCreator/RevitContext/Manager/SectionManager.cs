@@ -3,7 +3,7 @@ using Autodesk.Revit.DB;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SectionCreator.RevitContext.Manager
+namespace AXE.RevitContext.Manager
 {
     internal class SectionManager
     {

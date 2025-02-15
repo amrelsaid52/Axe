@@ -1,6 +1,6 @@
 ﻿using Autodesk.Revit.DB;
 
-namespace SectionCreator.RevitContext.Manager
+namespace AXE.RevitContext.Manager
 {
     internal class FamilyInstanceManager
     {

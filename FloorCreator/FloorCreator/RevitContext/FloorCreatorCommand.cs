@@ -1,14 +1,14 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using SectionCreator.RevitContext.Helpers;
-using SectionCreator.RevitContext.Manager;
-using SectionCreator.RevitContext.Utilities;
+using AXE.RevitContext.Helpers;
+using AXE.RevitContext.Manager;
+using AXE.RevitContext.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SectionCreator
+namespace AXE
 {
     [Transaction(TransactionMode.Manual)]
     public class FloorCreatorCommand : IExternalCommand

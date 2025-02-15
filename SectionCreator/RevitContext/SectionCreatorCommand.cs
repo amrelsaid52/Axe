@@ -3,12 +3,12 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Architecture;
 using Autodesk.Revit.DB.Structure;
 using Autodesk.Revit.UI;
-using SectionCreator.RevitContext.Manager;
-using SectionCreator.RevitContext.Utilities;
+using AXE.RevitContext.Manager;
+using AXE.RevitContext.Utilities;
 using System;
 using System.Linq;
 
-namespace SectionCreator
+namespace AXE
 {
     [Transaction(TransactionMode.Manual)]
     public class SectionCreatorCommand : IExternalCommand

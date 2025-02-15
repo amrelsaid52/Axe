@@ -1,10 +1,10 @@
 ﻿using Autodesk.Revit.DB;
-using SectionCreator.RevitContext.Helpers;
+using AXE.RevitContext.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SectionCreator.RevitContext.Manager
+namespace AXE.RevitContext.Manager
 {
     internal class ThresholdPoints
     {

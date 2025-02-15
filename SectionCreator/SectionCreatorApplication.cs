@@ -1,16 +1,16 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using SectionCreator.RevitContext.Manager;
+using AXE.RevitContext.Manager;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SectionCreator
+namespace AXE
 {
-    [Transaction(TransactionMode.Manual)]
+ 
     public class SectionCreatorApplication : IExternalApplication
     {
        

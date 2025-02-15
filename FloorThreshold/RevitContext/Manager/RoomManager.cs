@@ -1,11 +1,11 @@
 ﻿using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Architecture;
-using SectionCreator.RevitContext.Helpers;
+using AXE.RevitContext.Helpers;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace SectionCreator.RevitContext.Manager
+namespace AXE.RevitContext.Manager
 {
     internal class RoomManager
     {

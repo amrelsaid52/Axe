@@ -4,7 +4,7 @@
 	<AddIn Type="Command">
 		<Assembly>FloorThreshold.dll</Assembly>
 		<AddInId>DC15A075-F67C-4B06-AF7F-8B8A8E8DD547</AddInId>
-		<FullClassName>FloorThreshold.FloorThresholdCommand</FullClassName>
+		<FullClassName>AXE.FloorThresholdCommand</FullClassName>
 		<Name>Amr</Name>
 		<VendorId>Amr</VendorId>
 		<VendorDescription>Amr</VendorDescription>

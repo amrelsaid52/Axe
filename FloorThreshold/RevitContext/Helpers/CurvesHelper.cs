@@ -3,13 +3,35 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SectionCreator.RevitContext.Helpers
+namespace AXE.RevitContext.Helpers
 {
     internal class CurvesHelper
     {
 
 
+        public static List<XYZ> CustomSort(List<XYZ> list)
+        {
+            List<XYZ> newList = list.OrderBy(s => s.X).ToList();
+            List<XYZ> result = new List<XYZ>();
 
+            result.Add(newList[0]);
+            for (int i = 1; i < list.Count; i++)
+            {
+                if (i % 2 != 0)
+                {
+
+                    result.Add(list.OrderBy(s => s.DistanceTo(list[i])).Skip(1).FirstOrDefault(s => s.X - list[i].X >0.01));
+                }
+                else
+                {
+                   result.Add( list.OrderBy(s => s.DistanceTo(list[i])).Skip(1).FirstOrDefault(s => s.Y - list[i].Y > 0.01));
+
+                }
+
+            }
+
+            return result;
+        }
         public static XYZ ProjectPointOnLine(XYZ P, Line line)
         {
             // Extract start and end points of the line
@@ -44,12 +66,12 @@ namespace SectionCreator.RevitContext.Helpers
         }
         public static List<XYZ> SortXYZClockwise(List<XYZ> points, XYZ normal)
         {
-                    points = points
-           .Select(p => new XYZ(
-               Math.Round(p.X, 3),
-               Math.Round(p.Y, 3),
-               Math.Round(p.Z, 3)))
-           .ToList();
+            points = points
+   .Select(p => new XYZ(
+       Math.Round(p.X, 3),
+       Math.Round(p.Y, 3),
+       Math.Round(p.Z, 3)))
+   .ToList();
 
             // Compute centroid (average of all points)
             XYZ centroid = new XYZ(
@@ -91,7 +113,7 @@ namespace SectionCreator.RevitContext.Helpers
             XYZ center = new XYZ(centerX, centerY, 0);
 
             return points
-                
+
                 .OrderBy(p => DistanceSquared(center, p)) // Sort collinear points by distance
                 .ThenByDescending(p => Math.Atan2(p.Y - center.Y, p.X - center.X)) // Sort by angle
                 .ToList();

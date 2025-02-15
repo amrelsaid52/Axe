@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SectionCreator.RevitContext.Helpers
+namespace AXE.RevitContext.Helpers
 {
     internal class PointsHelper
     {

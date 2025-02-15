@@ -4,7 +4,7 @@
 	<AddIn Type="Command">
 		<Assembly>FloorCreator.dll</Assembly>
 		<AddInId>1A1082B5-A1EB-4FE6-999F-0719FAAF23B0</AddInId>
-		<FullClassName>FloorCreator.FloorCreatorCommand</FullClassName>
+		<FullClassName>AXE.FloorCreatorCommand</FullClassName>
 		<Name>Amr</Name>
 		<VendorId>Amr</VendorId>
 		<VendorDescription>Amr</VendorDescription>

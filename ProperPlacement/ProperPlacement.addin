@@ -4,7 +4,7 @@
 	<AddIn Type="Command">
 		<Assembly>ProperPlacement.dll</Assembly>
 		<AddInId>271C4507-237A-4D2A-B074-0064FE7EB544</AddInId>
-		<FullClassName>ProperPlacement.ProperPlacementCommand</FullClassName>
+		<FullClassName>AXE.ProperPlacementCommand</FullClassName>
 		<Name>Amr</Name>
 		<VendorId>Amr</VendorId>
 		<VendorDescription>Amr</VendorDescription>

@@ -2,7 +2,7 @@
 using Autodesk.Revit.UI;
 using System;
 
-namespace SectionCreator.RevitContext.Manager
+namespace AXE.RevitContext.Manager
 {
     public class SectionViewUpdater : IUpdater
     {
@@ -34,8 +34,8 @@ namespace SectionCreator.RevitContext.Manager
                         BoundingBoxXYZ sectionBox = new BoundingBoxXYZ
                         {
                             Transform = viewSection.CropBox.Transform,
-                            Min = new XYZ(viewSection.CropBox.Min.X, level.Elevation - offset, viewSection.CropBox.Min.Z ),
-                            Max = new XYZ(viewSection.CropBox.Max.X, level.Elevation + offset, viewSection.CropBox.Max.Z ),
+                            Min = new XYZ(viewSection.CropBox.Min.X,  viewSection.CropBox.Min.Y , level.Elevation - offset),
+                            Max = new XYZ(viewSection.CropBox.Max.X,  viewSection.CropBox.Max.Y, level.Elevation + offset),
                         };
                         viewSection.CropBox = sectionBox;
 

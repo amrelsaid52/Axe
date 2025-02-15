@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SectionCreator.RevitContext.Utilities
+namespace AXE.RevitContext.Utilities
 {
     internal class GlobalData
     {

@@ -2,14 +2,14 @@
 using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Architecture;
 using Autodesk.Revit.UI;
-using SectionCreator.RevitContext.Helpers;
-using SectionCreator.RevitContext.Manager;
+using AXE.RevitContext.Helpers;
+using AXE.RevitContext.Manager;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace SectionCreator
+namespace AXE
 {
     [Transaction(TransactionMode.Manual)]
     public class FloorThresholdCommand : IExternalCommand
@@ -61,7 +61,8 @@ namespace SectionCreator
                                 .OrderBy(p => Math.Atan2(p.Y - centroid.Y, p.X - centroid.X))
                                 .ToList();
 
-                            List<XYZ> roomPointsSorted = CurvesHelper.SortXYZClockwise(roomPoints, XYZ.BasisZ);
+                          //  List<XYZ> roomPointsSorted = CurvesHelper.SortXYZClockwise(roomPoints, XYZ.BasisZ);
+                            List<XYZ> roomPointsSorted = CurvesHelper.CustomSort(roomPoints);
                             //List<XYZ> roomPointsSorted = CurvesHelper.ComputeRectilinearHull(roomPoints);
                             //List<XYZ> roomPointsSorted = CurvesHelper.FindNearestNeighborPath(roomPoints);
                             // List<XYZ> roomPointsSorted = sortedPoints; 
