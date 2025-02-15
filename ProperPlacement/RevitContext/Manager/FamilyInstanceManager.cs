@@ -1,6 +1,6 @@
 ﻿using Autodesk.Revit.DB;
 
-namespace ProperPlacement.RevitContext.Manager
+namespace FloorThreshold.RevitContext.Manager
 {
     internal class FamilyInstanceManager
     {

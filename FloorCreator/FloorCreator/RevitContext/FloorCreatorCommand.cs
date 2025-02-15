@@ -1,14 +1,14 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using ProperPlacement.RevitContext.Helpers;
-using ProperPlacement.RevitContext.Manager;
-using ProperPlacement.RevitContext.Utilities;
+using FloorThreshold.RevitContext.Helpers;
+using FloorThreshold.RevitContext.Manager;
+using FloorThreshold.RevitContext.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ProperPlacement
+namespace FloorThreshold
 {
     [Transaction(TransactionMode.Manual)]
     public class FloorCreatorCommand : IExternalCommand

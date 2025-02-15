@@ -3,38 +3,16 @@
   "WorkspaceRootPath": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\properplacementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20A33EE4-76BC-4033-A010-4EE4E1263938}|..\\FloorThreshold\\FloorThreshold.csproj|e:\\4-work\\axelerate\\axe\\floorthreshold\\revitcontext\\manager\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\familyinstancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20A33EE4-76BC-4033-A010-4EE4E1263938}|..\\FloorThreshold\\FloorThreshold.csproj|e:\\4-work\\axelerate\\axe\\floorthreshold\\revitcontext\\floorthresholdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20A33EE4-76BC-4033-A010-4EE4E1263938}|..\\FloorThreshold\\FloorThreshold.csproj|e:\\4-work\\axelerate\\axe\\floorthreshold\\revitcontext\\helpers\\curveshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\pointlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\utilities\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\curvesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\wallselectionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\properplacement.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProperPlacement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FloorCreator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|E:\\4-Work\\axelerate\\Axe\\FloorCreator\\floorcreator\\floorcreator.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|solutionrelative:floorcreator\\floorcreator.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{20A33EE4-76BC-4033-A010-4EE4E1263938}|..\\FloorThreshold\\FloorThreshold.csproj|e:\\4-work\\axelerate\\axe\\floorthreshold\\revitcontext\\manager\\thresholdpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|e:\\4-work\\axelerate\\axe\\floorcreator\\floorcreator\\revitcontext\\manager\\curvesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,22 +23,22 @@
       "RelativeMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|solutionrelative:floorcreator\\revitcontext\\floorcreatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|E:\\4-Work\\axelerate\\Axe\\FloorCreator\\floorcreator\\revitcontext\\utilities\\uvextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|solutionrelative:floorcreator\\revitcontext\\utilities\\uvextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\manager\\pointlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|E:\\4-Work\\axelerate\\Axe\\FloorCreator\\floorcreator\\revitcontext\\utilities\\xyzutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|solutionrelative:floorcreator\\revitcontext\\utilities\\xyzutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\revitcontext\\properplacementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|E:\\4-Work\\axelerate\\Axe\\FloorCreator\\floorcreator\\revitcontext\\helpers\\pointshelper.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|solutionrelative:floorcreator\\revitcontext\\helpers\\pointshelper.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FloorThreshold||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD463C13-7E26-46CD-8890-15EADEFE97EC}|FloorCreator\\FloorCreator.csproj|e:\\4-work\\axelerate\\axe\\floorcreator\\floorcreator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProperPlacement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{A9E292E9-2333-493C-9FB3-E232AEB9E34D}|..\\ProperPlacement\\ProperPlacement.csproj|e:\\4-work\\axelerate\\axe\\properplacement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A33EE4-76BC-4033-A010-4EE4E1263938}|..\\FloorThreshold\\FloorThreshold.csproj|e:\\4-work\\axelerate\\axe\\floorthreshold\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,212 +48,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FamilyInstanceManager.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\FamilyInstanceManager.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\FamilyInstanceManager.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\FamilyInstanceManager.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\FamilyInstanceManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:33:36.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PointLocation.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABWAAAAAAAAAA==",
+              "Title": "ThresholdPoints.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Manager\\ThresholdPoints.cs",
+              "RelativeDocumentMoniker": "..\\FloorThreshold\\RevitContext\\Manager\\ThresholdPoints.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Manager\\ThresholdPoints.cs",
+              "RelativeToolTip": "..\\FloorThreshold\\RevitContext\\Manager\\ThresholdPoints.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwDwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:25:59.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CurvesManager.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\CurvesManager.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\CurvesManager.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\CurvesManager.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\CurvesManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T07:38:41.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalData.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Utilities\\GlobalData.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Utilities\\GlobalData.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Utilities\\GlobalData.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Utilities\\GlobalData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T13:38:20.248Z",
+              "WhenOpened": "2025-02-15T13:15:14.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProperPlacementCommand.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAjwEYAAABLAAAAAAAAAA==",
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Manager\\RoomManager.cs",
+              "RelativeDocumentMoniker": "..\\FloorThreshold\\RevitContext\\Manager\\RoomManager.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Manager\\RoomManager.cs",
+              "RelativeToolTip": "..\\FloorThreshold\\RevitContext\\Manager\\RoomManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAawEoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T06:59:05.939Z",
+              "WhenOpened": "2025-02-15T12:09:55.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FloorCreator.addin",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\FloorCreator.addin",
-              "RelativeDocumentMoniker": "FloorCreator\\FloorCreator.addin",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\FloorCreator.addin",
-              "RelativeToolTip": "FloorCreator\\FloorCreator.addin",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2025-02-14T06:41:53.422Z",
+              "DocumentIndex": 1,
+              "Title": "FloorThresholdCommand.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\FloorThresholdCommand.cs",
+              "RelativeDocumentMoniker": "..\\FloorThreshold\\RevitContext\\FloorThresholdCommand.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\FloorThresholdCommand.cs",
+              "RelativeToolTip": "..\\FloorThreshold\\RevitContext\\FloorThresholdCommand.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:52:23.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProperPlacement.addin",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\ProperPlacement.addin",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\ProperPlacement.addin",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\ProperPlacement.addin",
-              "RelativeToolTip": "..\\ProperPlacement\\ProperPlacement.addin",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2025-02-14T06:58:47.908Z",
+              "DocumentIndex": 4,
+              "Title": "CurvesManager.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
+              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
+              "RelativeToolTip": "FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAvwJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:45:58.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoomManager.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\RoomManager.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\RoomManager.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\RoomManager.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\RoomManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvyMAAAANAAAAAAAAAA==",
+              "Title": "CurvesHelper.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Helpers\\CurvesHelper.cs",
+              "RelativeDocumentMoniker": "..\\FloorThreshold\\RevitContext\\Helpers\\CurvesHelper.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\RevitContext\\Helpers\\CurvesHelper.cs",
+              "RelativeToolTip": "..\\FloorThreshold\\RevitContext\\Helpers\\CurvesHelper.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAIA8wFUBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T07:39:18.792Z",
+              "WhenOpened": "2025-02-15T13:10:37.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "ProperPlacementCommand.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
+              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
+              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\ProperPlacementCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:09:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FloorCreatorCommand.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
+              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
+              "RelativeToolTip": "FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:32:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointLocation.cs",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
+              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
+              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\PointLocation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:15:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProperPlacement",
               "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\ProperPlacement.csproj",
               "RelativeDocumentMoniker": "..\\ProperPlacement\\ProperPlacement.csproj",
               "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\ProperPlacement.csproj",
               "RelativeToolTip": "..\\ProperPlacement\\ProperPlacement.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-14T14:04:20.537Z",
+              "WhenOpened": "2025-02-15T06:34:45.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WallSelectionFilter.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\WallSelectionFilter.cs",
-              "RelativeDocumentMoniker": "..\\ProperPlacement\\RevitContext\\Manager\\WallSelectionFilter.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\ProperPlacement\\RevitContext\\Manager\\WallSelectionFilter.cs",
-              "RelativeToolTip": "..\\ProperPlacement\\RevitContext\\Manager\\WallSelectionFilter.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T07:04:51.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FloorCreator",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\FloorCreator.csproj",
-              "RelativeDocumentMoniker": "FloorCreator\\FloorCreator.csproj",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\FloorCreator.csproj",
-              "RelativeToolTip": "FloorCreator\\FloorCreator.csproj",
+              "DocumentIndex": 8,
+              "Title": "FloorThreshold",
+              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\FloorThreshold.csproj",
+              "RelativeDocumentMoniker": "..\\FloorThreshold\\FloorThreshold.csproj",
+              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorThreshold\\FloorThreshold.csproj",
+              "RelativeToolTip": "..\\FloorThreshold\\FloorThreshold.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-13T17:26:59.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UVExtension.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Utilities\\UVExtension.cs",
-              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\Utilities\\UVExtension.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Utilities\\UVExtension.cs",
-              "RelativeToolTip": "FloorCreator\\RevitContext\\Utilities\\UVExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:57:17.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PointsHelper.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Helpers\\PointsHelper.cs",
-              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\Helpers\\PointsHelper.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Helpers\\PointsHelper.cs",
-              "RelativeToolTip": "FloorCreator\\RevitContext\\Helpers\\PointsHelper.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:54:22.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CurvesManager.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
-              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
-              "RelativeToolTip": "FloorCreator\\RevitContext\\Manager\\CurvesManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAIAzwBsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:49:52.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FloorCreatorCommand.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
-              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
-              "RelativeToolTip": "FloorCreator\\RevitContext\\FloorCreatorCommand.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:24:09.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "XYZUtils.cs",
-              "DocumentMoniker": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Utilities\\XYZUtils.cs",
-              "RelativeDocumentMoniker": "FloorCreator\\RevitContext\\Utilities\\XYZUtils.cs",
-              "ToolTip": "E:\\4-Work\\axelerate\\Axe\\FloorCreator\\FloorCreator\\RevitContext\\Utilities\\XYZUtils.cs",
-              "RelativeToolTip": "FloorCreator\\RevitContext\\Utilities\\XYZUtils.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:35:46.315Z",
+              "WhenOpened": "2025-02-15T06:34:03.721Z",
               "EditorCaption": ""
             }
           ]

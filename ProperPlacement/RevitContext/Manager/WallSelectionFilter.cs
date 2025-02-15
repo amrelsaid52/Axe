@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProperPlacement.RevitContext.Manager
+namespace FloorThreshold.RevitContext.Manager
 {
     internal class WallSelectionFilter : ISelectionFilter
     {

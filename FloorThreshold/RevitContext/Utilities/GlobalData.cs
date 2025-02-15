@@ -8,7 +8,5 @@ namespace FloorThreshold.RevitContext.Utilities
 {
     internal class GlobalData
     {
-        internal static string BathroomName = "Bathroom"; 
-        internal static string InsertedObjectName = "ADA"; 
     }
 }

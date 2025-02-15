@@ -3,13 +3,13 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Architecture;
 using Autodesk.Revit.DB.Structure;
 using Autodesk.Revit.UI;
-using ProperPlacement.RevitContext.Manager;
-using ProperPlacement.RevitContext.Manager;
-using ProperPlacement.RevitContext.Utilities;
+using FloorThreshold.RevitContext.Manager;
+using FloorThreshold.RevitContext.Manager;
+using FloorThreshold.RevitContext.Utilities;
 using System;
 using System.Linq;
 
-namespace ProperPlacement
+namespace FloorThreshold
 {
     [Transaction(TransactionMode.Manual)]
     public class ProperPlacementCommand : IExternalCommand

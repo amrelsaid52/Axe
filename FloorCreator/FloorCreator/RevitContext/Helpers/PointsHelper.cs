@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProperPlacement.RevitContext.Helpers
+namespace FloorThreshold.RevitContext.Helpers
 {
     internal class PointsHelper
     {
