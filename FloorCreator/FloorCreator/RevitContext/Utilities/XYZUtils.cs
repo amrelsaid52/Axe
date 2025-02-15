@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorCreator.RevitContext.Utilities
+namespace ProperPlacement.RevitContext.Utilities
 {
     public class XYZUtils
     {

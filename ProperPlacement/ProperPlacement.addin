@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	
+	<AddIn Type="Command">
+		<Assembly>ProperPlacement.dll</Assembly>
+		<AddInId>271C4507-237A-4D2A-B074-0064FE7EB544</AddInId>
+		<FullClassName>ProperPlacement.ProperPlacementCommand</FullClassName>
+		<Name>Amr</Name>
+		<VendorId>Amr</VendorId>
+		<VendorDescription>Amr</VendorDescription>
+	</AddIn>
+</RevitAddIns>

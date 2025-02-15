@@ -1,14 +1,14 @@
 ﻿using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using FloorCreator.RevitContext.Helpers;
-using FloorCreator.RevitContext.Manager;
-using FloorCreator.RevitContext.Utilities;
+using ProperPlacement.RevitContext.Helpers;
+using ProperPlacement.RevitContext.Manager;
+using ProperPlacement.RevitContext.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace FloorCreator
+namespace ProperPlacement
 {
     [Transaction(TransactionMode.Manual)]
     public class FloorCreatorCommand : IExternalCommand

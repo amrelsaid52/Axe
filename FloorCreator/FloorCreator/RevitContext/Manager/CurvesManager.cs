@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FloorCreator.RevitContext.Manager
+namespace ProperPlacement.RevitContext.Manager
 {
     internal class CurvesManager
     {
